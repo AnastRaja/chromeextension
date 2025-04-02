@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyAsi28aI9hC7gsq8LLt6yuAcVc59aQx-Ao"; // Replace with your actual Google Gemini API key
+const API_KEY = "-Ao"; // Replace with your actual Google Gemini API key
 
 // Inject styles if not already present
 if (!document.getElementById("summarizer-styles")) {
